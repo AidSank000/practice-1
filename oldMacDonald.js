@@ -56,6 +56,10 @@ const duck = {
 // Joe
 
 // Aidan
+const tiger={
+    animalName: "tiger"
+    animalSound: "Roar!"
+}
 
 // Joya
 
